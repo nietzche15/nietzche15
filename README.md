@@ -31,7 +31,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell&card_width=410px" style="height: 170px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell" style="height: 170px;"/>
 </div>
 
 
