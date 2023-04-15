@@ -3,14 +3,14 @@
 <br/>
 
 ## 🍉Contacts  
----
+
 #### ✉️ E-mail | &ensp; yeongeun93@gmail.com  
 #### 📂 Tistory | &ensp; [Pale Blue Dot](https://scientific-hibiscus.tistory.com)  
 
 <br/><br/><br/>
 
 ## 🛠️ Skills  
----
+
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
 
@@ -26,10 +26,10 @@
 
 
 ## 🐱 GitHub Stats & Top Languages  
----
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  -->
-
+<br/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell" style="height: 170px;"/>
 </div>
