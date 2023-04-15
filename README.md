@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=00FFF0&type=wave&animation=twinkling&height=200&section=header&text=Yeongeun's%20Git&fontSize=90&fontColor=000000&desc=Welcome%20!👏🏻&descAlign=80&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?color=AEFFB6&type=wave&animation=twinkling&height=200&section=header&text=Yeongeun's%20Git&fontSize=90&fontColor=000000&desc=Welcome%20!👏🏻&descAlign=80&descAlignY=80)
 
 <br/>
 
@@ -28,9 +28,14 @@
 ## 🐱 GitHub Stats & Top Languages  
 ---
 
-<!-- [![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-<img src="https://camo.githubusercontent.com/3cf6fe05ebd7a3fdbb3011ce2ba56abedfdbd70620652029209ce7b72c7f66cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e6965747a63686531352673686f775f69636f6e733d7472756526637573746f6d5f7469746c653d59656f6e6765756e277325323047697448756225323073746174732672696e675f636f6c6f723d41303733464626686964653d737461727326636f756e745f707269766174653d74727565" alt="Yeongeun's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nietzche15&amp;show_icons=true&amp;custom_title=Yeongeun's%20GitHub%20stats&amp;ring_color=A073FF&amp;hide=stars&amp;count_private=true" style="max-width: 100%; margin-right: 20px;"><img src="https://camo.githubusercontent.com/3c0f7441b50abee49408aa62799cf9300faa07e63862354f135f8e4d317a98cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e6965747a6368653135266c61796f75743d636f6d70616374266578636c7564655f7265706f3d6769746875622d726561646d652d73746174732c6e6965747a63686531352e6769746875622e696f2c6d6166696147616d652c53655341435f4672696467652c77696e646f77546f554e49564552534526686964653d7368656c6c26636172645f77696474683d343130" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&amp;layout=compact&amp;exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&amp;hide=shell&amp" style="max-width: 100%; height:170px">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell&card_width=410px" / style="height: 170px;">
+</a>
 
 <br/><br/><br/>
 
