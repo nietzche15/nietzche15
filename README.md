@@ -28,7 +28,7 @@
 ## 🐱 GitHub Stats & Top Languages  
 ---
 
-[![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell&card_width=410)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nietzche15&show_icons=true&custom_title=Yeongeun's%20GitHub%20stats&ring_color=A073FF&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzche15&layout=compact&exclude_repo=github-readme-stats,nietzche15.github.io,mafiaGame,SeSAC_Fridge,windowToUNIVERSE&hide=shell&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/>
 
